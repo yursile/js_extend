@@ -2,34 +2,23 @@
   "name": "js_extend",
   "version": "1.0.0",
   "description": "extend an obj for both browser and node.js,like jQuery.extend",
+  "main": "extend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yursile/js_extend.git"
+  },
   "keywords": [
     "extend",
     "clone",
-    "js",
-    "copy",
-    "inherit"
+    "copy"
   ],
-  "author": {
-    "name": "yursile",
-    "email": "ben@dreamerslab.com"
+  "author": "yursile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yursile/js_extend/issues"
   },
-
- 
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dreamerslab/node.extend.git"
-  },
-  "contributors": [
-    {
-      "name": "yursile"
-    }
-  ],
-  "main": "extend",
-  "scripts": {
-    
-  },
-  "engines": [
-    "node >= 0.4"
-  ],
-  "license": "(MIT OR GPL-2.0)",
+  "homepage": "https://github.com/yursile/js_extend#readme"
 }
